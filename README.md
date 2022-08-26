@@ -1,1 +1,9 @@
-### 这是个人使用的配置文件管理文件夹
+### 使用stow管理配置文件
+
+brew install stow
+
+cd ~
+git clone https://github.com/Gongkangjia/dotfiles.git 
+
+stow common
+

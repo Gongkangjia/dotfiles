@@ -1,1 +1,2 @@
 alias ssh="ssh -Y"
+alias myip="curl https://ipinfo.io/json"

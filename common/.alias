@@ -1,2 +1,5 @@
 alias ssh="ssh -Y"
 alias myip="curl https://ipinfo.io/json"
+
+
+alia rm="trash-put"

@@ -3,3 +3,9 @@ alias myip="curl https://ipinfo.io/json"
 
 
 alia rm="trash-put"
+
+# tmux
+alias tl="tmux ls"
+alias ta="tmux attach -t"
+alias tn="tmux new -s"
+

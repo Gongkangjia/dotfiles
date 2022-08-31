@@ -2,7 +2,7 @@ alias ssh="ssh -Y"
 alias myip="curl https://ipinfo.io/json"
 
 
-alia rm="trash-put"
+alias rm="trash-put"
 
 # tmux
 alias tl="tmux ls"

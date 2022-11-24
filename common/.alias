@@ -9,3 +9,14 @@ alias tl="tmux ls"
 alias ta="tmux attach -t"
 alias tn="tmux new -s"
 
+#neovim
+type nvim
+if [ $? -eq 0 ]; then
+  alias vi="nvim"
+fi
+
+#trash-put
+type trash-put
+if [ $? -eq 0 ]; then
+  alias rm="trash-put"
+fi
